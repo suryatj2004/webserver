@@ -54,7 +54,7 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![OUTPUT](/images/out.png)
+![OUTPUT](/image/out.png)
 
 ## RESULT:
 The program for implementing simple web server has been completed successfully
